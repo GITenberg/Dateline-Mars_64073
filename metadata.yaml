@@ -1,5 +1,5 @@
 _repo: Dateline-Mars_64073
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cartier, Edd
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8270'
     url: http://www.gutenberg.org/2009/agents/8270
     wikipedia: https://en.wikipedia.org/wiki/Edd_Cartier
+covers:
+- cover_type: archival
+  image_path: 64073-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Richard
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34343
     wikipedia: https://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64073#Dateline-Mars
 gutenberg_issued: '2020-12-18'
 gutenberg_type: Text
 identifiers:
